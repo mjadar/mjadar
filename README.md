@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjadar
-- 👀 I’m interested in Computer Science and networking 
-- 🌱 I’m currently learning algorithms and data-structures
+- 👀 I’m interested in Computer Science and algorithms 
+- 🌱 I work as a software engineer at Air France.
 
 
 <!---
